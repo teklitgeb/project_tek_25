@@ -8,8 +8,9 @@
 ## Course Overview
 
 During this one-day course, we will build on open-source foundations, focusing 
-on [Brightway](https://github.com/brightway-lca), and [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). Additional course material for [Wurst](https://github.com/polca/wurst), [Premise](https://github.com/polca/premise) and [ODYM](https://github.com/IndEcol/ODYM), 
-is also provided. These tools help to perform LCA studies and to make our inventory models better fit research questions with a temporal 
+on [Brightway](https://github.com/brightway-lca). Additional course material for [Wurst](https://github.com/polca/wurst), [Premise](https://github.com/polca/premise) and [ODYM](https://github.com/IndEcol/ODYM), 
+is also provided, but will not be looked at during the course. These tools help to perform LCA studies 
+and to make our inventory models better fit research questions with a temporal 
 dimension. The instructor will be:
 
 - **Romain Sacchi**: Developer of [Premise](https://github.com/polca/premise), [Pathways](https://github.com/polca/pathways) and [Carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator)
