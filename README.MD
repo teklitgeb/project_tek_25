@@ -54,11 +54,11 @@ so that you have time to ask/write us questions if you encounter any issues.
 Obviously, please bring your laptop and charger with you.
 
 > [!IMPORTANT]
-> We recommend to have at least 8GB of RAM on your computer, as some of the calculations can 
-> be quite memory-intensive.
+> We recommend to have at least 8GB of RAM on your computer, as some of the 
+> calculations can be memory-intensive.
 
 ## Schedule
-- **Starting Time Thursday**: The school starts at 09:00 on Thursday. 
+- **Starting Time**: The school starts at 09:00 on Thursday, the 3rd of April 2025. 
 
 
 For more information, please see the [schedule](SCHEDULE.MD).
