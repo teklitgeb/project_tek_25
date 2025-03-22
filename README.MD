@@ -1,4 +1,4 @@
-# One-day course on Open-Source Python Tools for LCA and Prospective LCA
+# One-day course on Open-Source Python Tools for LCA
 
 <p align="center">
   <img src="https://github.com/Laboratory-for-Energy-Systems-Analysis/winter-school-psi-2025/blob/main/_images/psi_luftbild.jpg" 
@@ -11,16 +11,19 @@ During this one-day course, we will build on open-source foundations, focusing
 on [Brightway](https://github.com/brightway-lca). Additional course material for [Wurst](https://github.com/polca/wurst), [Premise](https://github.com/polca/premise) and [ODYM](https://github.com/IndEcol/ODYM), 
 is also provided, but will not be looked at during the course. These tools help to perform LCA studies 
 and to make our inventory models better fit research questions with a temporal 
-dimension. The instructor will be:
+dimension. 
 
-- **Romain Sacchi**: Developer of [Premise](https://github.com/polca/premise), [Pathways](https://github.com/polca/pathways) and [Carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator)
+The instructor will be:
+
+- **Romain Sacchi**: Developer of [Premise](https://github.com/polca/premise), [Pathways](https://github.com/polca/pathways), [Carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator), and [Edges](https://github.com/Laboratory-for-Energy-Systems-Analysis/edges).
 
 The course will cover [Brightway](https://docs.brightway.dev/en/latest/)’s basics and best practices for model development, 
-including the use of Jupyter notebooks and the [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). 
+including the use of Jupyter notebooks and [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). 
 Essential LCA aspects such as importing inventories from Excel, calculating LCIA results, sensitivity analysis, multiple types of 
-uncertainty, or parametrization, will be taught. 
+uncertainty, or parametrization, as well as data sharing, will be taught. 
 
-This repository also includes tutorials guiding the use of [ODYM](https://github.com/IndEcol/ODYM) for combining LCA with Material Flow Analysis (MFA), 
+This repository also includes, among others, tutorials guiding the use of [ODYM](https://github.com/IndEcol/ODYM) 
+for combining LCA with Material Flow Analysis (MFA), 
 the use of [Wurst](https://github.com/polca/wurst) for consistent manipulation of LCA inventories, and [premise](https://premise.readthedocs.io) 
 for the creation of prospective, IPCC scenario-based ecoinvent versions.
 
@@ -33,12 +36,14 @@ the Brightway ecosystem, specifically targeting beginner and intermediate
 users. 
 
 > [!NOTE]
-> While Python proficiency is not required, we recommend that participants go through some basic Python tutorials before the course.
+> While Python proficiency is not required, we recommend that participants 
+> go through some basic Python tutorials before the course.
 
 
 ## Contact
 
-In case of issue going through the instructions, please contact the [organizing team](mailto:romain.sacchi@psi.ch).
+In case of issue going through the instructions, please contact 
+the [organizing team](mailto:romain.sacchi@psi.ch).
 
 
 ## Instructions Before the Course
@@ -46,10 +51,12 @@ Ideally, do this **at least one week before the course starts**,
 so that you have time to ask/write us questions if you encounter any issues.
 
 > [!IMPORTANT]  
-> Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository to get yourself ready before the course.
+> Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository to get 
+> yourself ready before the course.
 
 > [!IMPORTANT]  
-> To go through the instructions, you will need ecoinvent credentials (username and password).
+> To go through the instructions, you will need ecoinvent credentials 
+> (username and password).
 
 Obviously, please bring your laptop and charger with you.
 
