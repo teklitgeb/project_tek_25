@@ -1,4 +1,4 @@
-# One-day course on Open-Source Python Tools for LCA
+# ourse on Open-Source Python Tools for LCA
 
 <p align="center">
   <img src="https://github.com/Laboratory-for-Energy-Systems-Analysis/winter-school-psi-2025/blob/main/_images/psi_luftbild.jpg" 
